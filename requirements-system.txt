@@ -1,0 +1,4 @@
+jupyter==1.0.0
+jupyterhub==1.1.0
+jupyterlab==1.2.6
+qgrid==1.3.0
